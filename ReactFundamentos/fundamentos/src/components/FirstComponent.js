@@ -16,7 +16,7 @@ const FirstComponent = () => {
         <div>
             {/* Algum Comentário */}
             <h1>Meu primeiro componente</h1>
-            <p className = "teste">Meu texto</p>
+            <p className = "teste">Esse aqui é para testar o App.css</p>
             <MyComponent/>
         </div>   
     )
